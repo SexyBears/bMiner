@@ -9,7 +9,7 @@ import org.rev317.api.methods.Inventory;
 import org.rev317.api.wrappers.hud.Item;
 import org.rev317.api.wrappers.hud.Tab;
 
-public class alching implements Strategy {
+public class alching implements Strategy{
 	
 	 Point alchSpell = new Point(666, 338);
 	 public static final int[] ROCKID = { 434, 436, 438, 440, 442, 453, 444, 447, 449, 451, 1436, 7936 } ;
